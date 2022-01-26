@@ -1,2 +1,1 @@
-This is our first Git class! 
-New change.
+This is our first Git class!
