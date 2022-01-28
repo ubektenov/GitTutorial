@@ -1,5 +1,5 @@
 This is our first Git class! 
 New change.
 Another line of code.
-Expecting a conflict here.
+Conflict resolved.
 Working on merge command
