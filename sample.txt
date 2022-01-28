@@ -2,3 +2,4 @@ This is our first Git class!
 New change.
 Another line of code.
 Expecting a conflict here.
+Working on merge command
