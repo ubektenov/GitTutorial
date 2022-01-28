@@ -1,4 +1,6 @@
 This is our first Git class! 
 New change.
 Another line of code.
-Working on merge command
+Conflict resolved.
+Working on merge command.
+Work is done.
