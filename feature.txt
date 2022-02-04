@@ -1,2 +1,3 @@
 Documentation for features.
 New feature being developed.
+How to solve conflicts.
